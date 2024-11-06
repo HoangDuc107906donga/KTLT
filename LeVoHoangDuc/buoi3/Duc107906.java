@@ -4,9 +4,9 @@
          return gt? "nam":"nữ";
 }
 public static void main(String[] args) {
-    String maSV = "107445", hoVaTen = "Huỳnh Trần Bình An", ngaySinh = "24/12/2002",
+    String maSV = "107445", hoVaTen = "Lê Võ Hoàng Đức", ngaySinh = "18/08/2006",
     lop = "IT24A", khoa ="Công Nghệ Thông Tin", diaChi = "Đà Nẵng"; 
-    int tuoi = 22;
+    int tuoi = 18;
     boolean gt = true;
     System.out.println("----------TTHÔNG TIN SINH VIÊN----------");
     System.out.println("Mã Sinh Viên: "+maSV);
